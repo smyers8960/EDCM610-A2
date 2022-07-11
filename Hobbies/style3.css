@@ -1,0 +1,85 @@
+body {
+  background-color: #F5DEB3;
+}
+
+header {
+  padding: 60px;
+  text-align: center;
+  background: #008000;
+  color: white;
+  font-family: Papyrus;
+  font-size: 60px;
+}
+
+button1 {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 10px;
+}
+
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+
+details > p {
+  background-color: #eeeeee;
+  padding: 4px;
+  margin: 0;
+  box-shadow: 1px 1px 2px #bbbbbb;
+}
+
+summary {
+  padding: 4px;
+  width: 200px;
+  background-color: #eeeeee;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  
+img {
+  border-radius: 8px;
+}
+
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid #8D8741;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+footer {
+  grid-area: footer;
+  background-color: #f1f1f1;
+  padding: 40px;
+  text-align: center;
+}
+	
+#hobby1 {
+  background-color: #DAAD86;
+  color: black;
+  padding: 10px;
+  text-align: center;
+}
+
+#hobby2 {
+  background-color: #659DBD;
+  color: black;
+  padding: 10px;
+  text-align: center;
+}
+
+#hobby3 {
+  background-color: #FBEEC1;
+  color: black;
+  padding: 10px;
+  text-align: center;
+}
